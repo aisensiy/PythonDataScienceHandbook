@@ -16,7 +16,7 @@
 ### [Preface](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/00.00-Preface.ipynb)
 
 ### [1. IPython: Beyond Normal Python](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)
-- [Help and Documentation in IPython](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.01-Help-And-Documentation.ipynb)
+- [在 IPython 中使用帮助与文档](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.01-Help-And-Documentation.ipynb)
 - [Keyboard Shortcuts in the IPython Shell](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.02-Shell-Keyboard-Shortcuts.ipynb)
 - [IPython Magic Commands](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.03-Magic-Commands.ipynb)
 - [Input and Output History](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.04-Input-Output-History.ipynb)
