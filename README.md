@@ -1,14 +1,14 @@
 # Python 数据科学手册
 
-这里包含了 [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) 的中文译本，当然也遵循了其采用 Jupyter notbook 的形式。在翻译的过程中，译者自感自己的水平有限，为避免误导大家，都在中文译文下保留了英文原文。翻译过程中在遵循原著的文笔的前提下，采用了意译。每翻译完成一个章节都会将下面的目录更改成标题。
+这里包含了 [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) 的中文译本，当然也遵循了其采用 Jupyter notbook 的形式。在翻译的过程中，译者自感水平有限，为避免误导读者，在中文译文下保留了英文原文，中文内容仅仅辅助加速阅读速度。翻译过程中在尽量遵循原著的文笔的前提下，采用了意译。每翻译完成一个章节都会将下面的目录更改成标题，当然有些标题实在是不适合翻译为中文，就保留了英文的形式。
 
 ![cover image](notebooks/figures/PDSH-cover.png)
 
 本书编写和测试的环境是 Python 3.5，作者提及在 Python 2.7 这样的环境运行也问题不大，作为译者我就在 Python 2.7 对此进行了检查并对一些不适用于 Python 2.7 的代码做了更改（当然，都有明确的批注）。
 
-本书详细的介绍了目前在 Python 中进行数据分析、数据处理、机器学习相关的几个重要的库的使用，其中包含：[IPython](http://ipython.org)，[NumPy](http://numpy.org），[Pandas](http://pandas.pydata.org)，[Matplotlib](http://matplotlib.org), [Scikit-Learn](http://scikit-learn.org)以及其他相关库。阅读本书的前提是对 Python 语言有一定的了解，如果你需要语言的大概的介绍，可以去看[A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)：它是一本面向研究人员和科学家们的 Python 入门书籍。
+本书详细的介绍了目前在 Python 中进行数据分析、数据处理、机器学习相关的几个重要的库的使用，其中包含：[IPython](http://ipython.org)，[NumPy](http://numpy.org)，[Pandas](http://pandas.pydata.org)，[Matplotlib](http://matplotlib.org)， [Scikit-Learn](http://scikit-learn.org)以及其他相关库。阅读本书的前提是对 Python 语言有一定的了解，如果你需要语言的大概的介绍，可以去看[A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)：它是一本面向研究人员和科学家的 Python 入门书籍。
 
-一下的目录指向[nbviewer](http://nbviewer.jupyter.org)：
+以下的目录指向 [nbviewer](http://nbviewer.jupyter.org)：
 
 ---
 ## [Table of Contents](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/Index.ipynb)
