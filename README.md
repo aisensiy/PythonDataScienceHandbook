@@ -21,7 +21,7 @@
 - [IPython 中的魔法命令](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.03-Magic-Commands.ipynb)
 - [输入输出历史](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.04-Input-Output-History.ipynb)
 - [在 IPython 中使用 shell 命令](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.05-IPython-And-Shell-Commands.ipynb)
-- [Errors and Debugging](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.06-Errors-and-Debugging.ipynb)
+- [错误与调试](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.06-Errors-and-Debugging.ipynb)
 - [Profiling and Timing Code](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.07-Timing-and-Profiling.ipynb)
 - [More IPython Resources](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.08-More-IPython-Resources.ipynb)
 
