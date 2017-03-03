@@ -22,7 +22,7 @@
 - [输入输出历史](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.04-Input-Output-History.ipynb)
 - [在 IPython 中使用 shell 命令](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.05-IPython-And-Shell-Commands.ipynb)
 - [错误与调试](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.06-Errors-and-Debugging.ipynb)
-- [Profiling and Timing Code](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.07-Timing-and-Profiling.ipynb)
+- [性能分析](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.07-Timing-and-Profiling.ipynb)
 - [More IPython Resources](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.08-More-IPython-Resources.ipynb)
 
 ### [2. Introduction to NumPy](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
