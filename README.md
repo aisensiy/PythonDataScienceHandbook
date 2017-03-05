@@ -13,7 +13,7 @@
 ---
 ## [Table of Contents](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/Index.ipynb)
 
-### [Preface](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/00.00-Preface.ipynb)
+### [序言](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/00.00-Preface.ipynb)
 
 ### [1. IPython: Beyond Normal Python](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)
 - [在 IPython 中使用帮助与文档](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/01.01-Help-And-Documentation.ipynb)
