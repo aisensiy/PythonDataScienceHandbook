@@ -33,7 +33,7 @@
 - [矩阵计算：广播](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb)
 - [比较、掩码、布尔运算](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb)
 - [Fancy Indexing](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
-- [Sorting Arrays](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.08-Sorting.ipynb)
+- [排序](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.08-Sorting.ipynb)
 - [Structured Data: NumPy's Structured Arrays](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb)
 
 ### [3. Data Manipulation with Pandas](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
