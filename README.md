@@ -34,7 +34,7 @@
 - [比较、掩码、布尔运算](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb)
 - [Fancy Indexing](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
 - [排序](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.08-Sorting.ipynb)
-- [Structured Data: NumPy's Structured Arrays](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb)
+- [结构化数据：NumPy 的结构化数组](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb)
 
 ### [3. Data Manipulation with Pandas](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
 - [Introducing Pandas Objects](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
