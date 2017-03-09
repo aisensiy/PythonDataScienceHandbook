@@ -37,7 +37,7 @@
 - [结构化数据：NumPy 的结构化数组](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb)
 
 ### [3. 用 Pandas 进行数据操作](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
-- [Introducing Pandas Objects](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
+- [Pandas 中的对象](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
 - [Data Indexing and Selection](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
 - [Operating on Data in Pandas](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/03.03-Operations-in-Pandas.ipynb)
 - [Handling Missing Data](http://nbviewer.jupyter.org/github/aisensiy/PythonDataScienceHandbook-CN/blob/master/notebooks/03.04-Missing-Values.ipynb)
